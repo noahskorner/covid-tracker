@@ -8,3 +8,19 @@ body {
   align-items: center;
   justify-content: center;
 }
+
+.image {
+  width: 50%;
+  margin-top: 25px;
+  border-radius: 0.25rem;
+}
+
+@media (max-width: 768px) {
+  .container {
+    margin: 0 10%;
+  }
+
+  .image {
+    width: 100%;
+  }
+}
