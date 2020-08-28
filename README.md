@@ -1,3 +1,5 @@
+## This project can be viewed at https://covid-tracker-nkorner.herokuapp.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
